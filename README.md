@@ -1,11 +1,6 @@
 # Hi, I'm Nandy 👋 
 
-<img src="https://raw.githubusercontent.com/NandyNandhuLaxmi/master/gh-header-image-cropped.png" alt="banner that says Nandy content"> 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-
-
-
-About
+  I'm a UI/UX Designer /Developer in *Freelancer*
 
 ### Get in touch
 
