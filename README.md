@@ -1,6 +1,11 @@
-## Nandy Nandhuma 👋
+# Hi, I'm Nandy 👋 
 
-Hi, I'm Nandy a UI/UX Designer at GitHub working Flutter Developer
+<img src="https://raw.githubusercontent.com/NandyNandhuLaxmi/master/gh-header-image-cropped.png" alt="banner that says Nandy content"> 
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
+
+
+About
 
 ### Get in touch
 
